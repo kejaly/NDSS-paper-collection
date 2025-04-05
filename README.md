@@ -1,2 +1,2 @@
 # NDSS-paper-collection
-NDSS paper collection for endnote
+NDSS (Network and Distributed System Security Symposium) Paper Collection (EndNote-Compatible) ,  designed to facilitate academic research .
